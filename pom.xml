@@ -12,7 +12,7 @@
 	<groupId>com.livestack.farmers</groupId>
 	<artifactId>Livestack-Farmers</artifactId>
 	<version>0.0.1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>Livestack-Farmers</name>
 	<description>Livestack Farmers Microservice</description>
 	<properties>
